@@ -1,0 +1,20 @@
+A10 entre A1
+VARIAC_P_TOTAL
+A20 menos A1
+A7 menos A1
+VARIAC_P_LAST3
+VARIAC_P_LAST5
+VARIAC_A_TOTAL
+A15 entre A1
+A10 menos A1
+P5 menos P1
+A5 menos A1
+P7 menos P2
+P7 menos P1
+A5 entre A1
+A3 menos A1
+P3 entre P1
+A20 entre A1
+P15 menos P1
+VARIAC_P_LAST10
+VARIAC_A_LAST10

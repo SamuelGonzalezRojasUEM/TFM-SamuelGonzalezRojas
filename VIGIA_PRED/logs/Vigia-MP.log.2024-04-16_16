@@ -1,0 +1,18 @@
+2024-04-16 16:28:27,112 - INFO - main : 631 - --------------   INICIO DEL PROCESO   -------------------
+2024-04-16 16:28:28,905 - INFO - main : 51 - Operacion realizada correctamente. 364 filas cargadas
+2024-04-16 16:28:35,462 - INFO - main : 51 - Operacion realizada correctamente. 10000 filas cargadas
+2024-04-16 16:28:35,888 - INFO - main : 169 - Tratamiento y ajuste de Potencias y Atenuaciones realizado.
+2024-04-16 16:28:36,059 - INFO - main : 250 - Transformacion de Categoricas a dummies.
+2024-04-16 16:28:36,079 - INFO - main : 262 - Limpieza final del dataset realizada.
+2024-04-16 16:29:46,287 - INFO - main : 631 - --------------   INICIO DEL PROCESO   -------------------
+2024-04-16 16:29:48,215 - INFO - main : 51 - Operacion realizada correctamente. 364 filas cargadas
+2024-04-16 16:29:54,599 - INFO - main : 51 - Operacion realizada correctamente. 10000 filas cargadas
+2024-04-16 16:29:54,976 - INFO - main : 169 - Tratamiento y ajuste de Potencias y Atenuaciones realizado.
+2024-04-16 16:29:55,147 - INFO - main : 250 - Transformacion de Categoricas a dummies.
+2024-04-16 16:29:55,179 - INFO - main : 262 - Limpieza final del dataset realizada.
+2024-04-16 16:29:55,228 - INFO - main : 318 - Iniciado el proceso de entrenamiento con Random Forest.
+2024-04-16 16:30:48,636 - INFO - main : 326 - Mejores hiperparametros:, {'max_depth': 9, 'n_estimators': 30}
+2024-04-16 16:30:51,286 - INFO - main : 338 - Precision del modelo con validacion cruzada: 0.966228628634291
+2024-04-16 16:30:51,306 - INFO - main : 346 - Precision del modelo en los datos de prueba: 0.9652677279305355
+2024-04-16 16:30:55,504 - INFO - main : 444 - Arbol de Clasificacion y Matrices de Confusion generadas para Random Forest
+2024-04-16 16:30:55,504 - INFO - main : 446 - Entrenamiento con Random Forest completado.

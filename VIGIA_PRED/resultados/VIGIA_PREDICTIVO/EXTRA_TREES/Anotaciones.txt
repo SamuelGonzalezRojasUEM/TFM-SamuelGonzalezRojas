@@ -1,0 +1,6 @@
+
+--------------   INICIO DEL ENTRENAMIENTO CON EXTRA_TREES   -------------------
+Hyperparámetros probados: {'n_estimators': [40, 50], 'max_depth': [4, 5, 6]} 
+Mejores hiperparametros: {'max_depth': 6, 'n_estimators': 40}
+INICIO DEL ENTRENAMIENTO: 2024-06-28 14:28:14
+FIN DEL ENTRENAMIENTO: 2024-06-28 14:28:20

@@ -1,0 +1,12 @@
+2024-04-16 17:46:31,365 - INFO - main : 631 - --------------   INICIO DEL PROCESO   -------------------
+2024-04-16 17:46:33,651 - INFO - main : 51 - Operacion realizada correctamente. 364 filas cargadas
+2024-04-16 17:48:17,654 - INFO - main : 51 - Operacion realizada correctamente. 200000 filas cargadas
+2024-04-16 17:48:19,150 - INFO - main : 169 - Tratamiento y ajuste de Potencias y Atenuaciones realizado.
+2024-04-16 17:48:22,725 - INFO - main : 250 - Transformacion de Categoricas a dummies.
+2024-04-16 17:48:23,036 - INFO - main : 262 - Limpieza final del dataset realizada.
+2024-04-16 17:48:23,744 - INFO - main : 318 - Iniciado el proceso de entrenamiento con Random Forest.
+2024-04-16 18:36:15,801 - INFO - main : 326 - Mejores hiperparametros:, {'max_depth': 10, 'n_estimators': 20}
+2024-04-16 18:36:44,580 - INFO - main : 338 - Precision del modelo con validacion cruzada: 0.9981845517294264
+2024-04-16 18:36:44,704 - INFO - main : 346 - Precision del modelo en los datos de prueba: 0.9982032790157962
+2024-04-16 18:36:50,575 - INFO - main : 444 - Arbol de Clasificacion y Matrices de Confusion generadas para Random Forest
+2024-04-16 18:36:50,575 - INFO - main : 446 - Entrenamiento con Random Forest completado.

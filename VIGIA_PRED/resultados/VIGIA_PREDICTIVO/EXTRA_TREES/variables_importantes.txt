@@ -1,0 +1,20 @@
+P1_^2
+P7 mas P3
+P2_^2
+A20 menos A1
+P5_^2
+P5 mas P1
+P5 mas P3
+P7 menos P2
+PORCEN_OCUPACION
+P20 mas P1
+A7 menos A1
+A10 entre A1
+A3 entre A1
+A5 menos A2
+P20 menos P1
+P21
+A10 menos A2
+P15 mas P2
+P5 menos P1
+P5 menos P2
